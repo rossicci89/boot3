@@ -1,13 +1,23 @@
-.row{
-  height: 25px;
-  background color: #13a89e;
-}
 
 .bluebox{
   height: 532px;
-  blackground color: #13a89e;
+  background-color: teal;
 }
 
 .primary{
   background-color: white;
+}
+
+.grey{
+  height: 100px;
+  background-color: grey;
+  border: 10px solid white;
+}
+
+.pro{
+  text-align: center;
+}
+
+.black{
+  background-color: black;
 }
